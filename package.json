@@ -18,7 +18,7 @@
     "@heroicons/react": "^2.2.0",
     "@neondatabase/serverless": "^0.10.4",
     "@next/bundle-analyzer": "^15.1.5",
-    "@prisma/adapter-neon": "^6",
+    "@prisma/adapter-neon": "^6.8.0",
     "@prisma/client": "^6",
     "@radix-ui/react-radio-group": "^1.2.2",
     "@radix-ui/react-select": "^2.1.4",
